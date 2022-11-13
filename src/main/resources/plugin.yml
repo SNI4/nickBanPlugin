@@ -1,0 +1,13 @@
+name: NickBanPlugin
+version: '${project.version}'
+main: me.sn1ch.nickban
+api-version: 1.16
+load: STARTUP
+authors: [ sn1ch ]
+description: Allows you to ban in-game nicknames
+
+commands:
+  nickban:
+    aliases:
+      - nb
+    usage: /nb <add | addsw | addew | rem | remsw | remew | check> [nickname]

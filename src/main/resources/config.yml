@@ -1,0 +1,11 @@
+
+kick_message: Ваш никнейм забанен на этом сервере.
+
+banned_names:
+  " "
+
+banned_names_startswith:
+  " "
+
+banned_names_endswith:
+  " "
